@@ -1,0 +1,4028 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-27 14:33+0100\n"
+"PO-Revision-Date: 2017-04-27 14:33+0100\n"
+"Last-Translator: MeksHQ <support@mekshq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../include/helpers.php:178
+msgid "Cover size"
+msgstr ""
+
+#: ../include/helpers.php:198
+msgid "A size"
+msgstr ""
+
+#: ../include/helpers.php:217
+msgid "B size"
+msgstr ""
+
+#: ../include/helpers.php:236
+msgid "C size"
+msgstr ""
+
+#: ../include/helpers.php:253 ../include/helpers.php:304
+#: ../include/helpers.php:321 ../include/helpers.php:472
+msgid "Inherit"
+msgstr ""
+
+#: ../include/helpers.php:256 ../include/helpers.php:476
+#: ../include/helpers.php:509 ../include/widgets/posts.php:274
+msgid "None"
+msgstr ""
+
+#: ../include/helpers.php:283 ../include/metaboxes.php:32
+#: ../include/metaboxes.php:69 ../include/sidebars.php:43
+msgid "Sidebar"
+msgstr ""
+
+#: ../include/helpers.php:307
+msgid "Classic"
+msgstr ""
+
+#: ../include/helpers.php:308 ../include/helpers.php:507
+msgid "With cover image"
+msgstr ""
+
+#: ../include/helpers.php:324
+msgid "No sidebar"
+msgstr ""
+
+#: ../include/helpers.php:325
+msgid "Left sidebar"
+msgstr ""
+
+#: ../include/helpers.php:326
+msgid "Right sidebar"
+msgstr ""
+
+#: ../include/helpers.php:479 ../include/sections.php:746
+msgid "Layout A"
+msgstr ""
+
+#: ../include/helpers.php:480 ../include/sections.php:908
+msgid "Layout B"
+msgstr ""
+
+#: ../include/helpers.php:481 ../include/sections.php:1005
+msgid "Layout C"
+msgstr ""
+
+#: ../include/helpers.php:482
+msgid "Layout A + B"
+msgstr ""
+
+#: ../include/helpers.php:483
+msgid "Layout A + C"
+msgstr ""
+
+#: ../include/helpers.php:493
+msgid "Prev/Next page links"
+msgstr ""
+
+#: ../include/helpers.php:494
+msgid "Numeric pagination links"
+msgstr ""
+
+#: ../include/helpers.php:495
+msgid "Load more button"
+msgstr ""
+
+#: ../include/helpers.php:496
+msgid "Infinite scroll"
+msgstr ""
+
+#: ../include/helpers.php:508
+msgid "Classic (no image)"
+msgstr ""
+
+#: ../include/helpers.php:1790 ../include/widgets/posts.php:211
+msgid "1 Day"
+msgstr ""
+
+#: ../include/helpers.php:1791
+msgid "3 Days"
+msgstr ""
+
+#: ../include/helpers.php:1792 ../include/widgets/posts.php:212
+msgid "1 Week"
+msgstr ""
+
+#: ../include/helpers.php:1793 ../include/widgets/posts.php:213
+msgid "1 Month"
+msgstr ""
+
+#: ../include/helpers.php:1794 ../include/widgets/posts.php:214
+msgid "3 Months"
+msgstr ""
+
+#: ../include/helpers.php:1795 ../include/widgets/posts.php:215
+msgid "6 Months"
+msgstr ""
+
+#: ../include/helpers.php:1796 ../include/widgets/posts.php:216
+msgid "1 Year"
+msgstr ""
+
+#: ../include/helpers.php:1797
+msgid "All time"
+msgstr ""
+
+#: ../include/helpers.php:1834
+msgid "Date"
+msgstr ""
+
+#: ../include/helpers.php:1835 ../include/widgets/posts.php:226
+msgid "Number of comments"
+msgstr ""
+
+#: ../include/helpers.php:1836 ../include/widgets/posts.php:228
+msgid "Number of views"
+msgstr ""
+
+#: ../include/helpers.php:1837 ../include/widgets/posts.php:230
+msgid "Random"
+msgstr ""
+
+#: ../include/helpers.php:1838
+msgid "Manual"
+msgstr ""
+
+#: ../include/menus.php:9
+msgid "Main Navigation"
+msgstr ""
+
+#: ../include/menus.php:10
+msgid "Social menu"
+msgstr ""
+
+#: ../include/menus.php:11
+msgid "Footer Menu"
+msgstr ""
+
+#: ../include/menus.php:12
+msgid "404 Menu"
+msgstr ""
+
+#: ../include/metaboxes.php:42 ../include/metaboxes.php:79
+msgid "Layout"
+msgstr ""
+
+#: ../include/metaboxes.php:52 ../include/sections.php:702
+#: ../include/sections.php:809 ../include/sections.php:930
+#: ../include/sections.php:1027 ../include/sections.php:1366
+#: ../include/widgets/posts.php:276
+msgid "Author"
+msgstr ""
+
+#: ../include/metaboxes.php:115 ../include/metaboxes.php:360
+#: ../include/metaboxes.php:452 ../include/sections.php:1330
+#: ../include/sections.php:1552 ../include/sections.php:1653
+#: ../include/sections.php:1710 ../include/sections.php:1782
+#: ../include/sections.php:1838 ../include/sections.php:1895
+msgid "Sidebar layout"
+msgstr ""
+
+#: ../include/metaboxes.php:124 ../include/metaboxes.php:381
+#: ../include/metaboxes.php:478
+msgid "Choose standard sidebar to display"
+msgstr ""
+
+#: ../include/metaboxes.php:131 ../include/metaboxes.php:390
+#: ../include/metaboxes.php:491
+msgid "Choose sticky sidebar to display"
+msgstr ""
+
+#: ../include/metaboxes.php:161
+msgid "Choose a layout"
+msgstr ""
+
+#: ../include/metaboxes.php:183
+msgid "Order by"
+msgstr ""
+
+#: ../include/metaboxes.php:191
+msgid "Order"
+msgstr ""
+
+#: ../include/metaboxes.php:197
+msgid "Exclude roles"
+msgstr ""
+
+#: ../include/metaboxes.php:207
+msgid "Exclude by ID"
+msgstr ""
+
+#: ../include/metaboxes.php:210
+msgid "Enter author IDs separated by comma"
+msgstr ""
+
+#: ../include/metaboxes.php:329 ../include/metaboxes.php:414
+#: ../include/sections.php:48 ../include/sections.php:1094
+#: ../include/sections.php:1634 ../include/sections.php:1692
+#: ../include/sections.php:1749 ../include/sections.php:1821
+#: ../include/sections.php:1878
+msgid "Cover image"
+msgstr ""
+
+#: ../include/metaboxes.php:338 ../include/metaboxes.php:424
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:314
+#: ../include/options/ReduxCore/inc/fields/media/field_media.php:198
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../include/metaboxes.php:339 ../include/metaboxes.php:425
+msgid "Clear"
+msgstr ""
+
+#: ../include/metaboxes.php:342 ../include/metaboxes.php:428
+msgid "Upload cover image for this category"
+msgstr ""
+
+#: ../include/metaboxes.php:346 ../include/metaboxes.php:434
+msgid "Posts main layout"
+msgstr ""
+
+#: ../include/metaboxes.php:356 ../include/metaboxes.php:446
+msgid "Choose posts layout for this category"
+msgstr ""
+
+#: ../include/metaboxes.php:370 ../include/metaboxes.php:464
+msgid "Choose sidebar layout"
+msgstr ""
+
+#: ../include/metaboxes.php:375 ../include/metaboxes.php:470
+msgid "Standard sidebar"
+msgstr ""
+
+#: ../include/metaboxes.php:384 ../include/metaboxes.php:483
+msgid "Sticky sidebar"
+msgstr ""
+
+#: ../include/options.php:22
+#, php-format
+msgid "Sidewalk Options%sTheme Documentation%s"
+msgstr ""
+
+#: ../include/options.php:30
+msgid "Theme Options"
+msgstr ""
+
+#: ../include/options.php:31
+msgid "Sidewalk Options"
+msgstr ""
+
+#: ../include/options.php:134
+msgid "Documentation"
+msgstr ""
+
+#: ../include/options.php:177
+msgid ""
+"Use this section to import content from Sidewalk demo website. Note: Images "
+"on demo website can be only used for demo purposes and they are not included "
+"in demo package."
+msgstr ""
+
+#: ../include/options.php:188
+msgid "Sidewalk Demo Content"
+msgstr ""
+
+#: ../include/plugins.php:113
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: ../include/plugins.php:114
+msgid "Sidewalk Plugins"
+msgstr ""
+
+#: ../include/plugins.php:115
+#: ../include/classes/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../include/plugins.php:116
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../include/plugins.php:127
+#: ../include/classes/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../include/plugins.php:128
+#: ../include/classes/class-tgm-plugin-activation.php:177
+#: ../include/classes/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../include/plugins.php:129
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../include/sections.php:6
+msgid "Branding"
+msgstr ""
+
+#: ../include/sections.php:7
+msgid "Personalize Sidewalk by adding your own icons and images"
+msgstr ""
+
+#: ../include/sections.php:14
+msgid "Logo"
+msgstr ""
+
+#: ../include/sections.php:15
+msgid ""
+"Upload your logo image here, or leave empty to show the website title instead"
+msgstr ""
+
+#: ../include/sections.php:23
+msgid "Retina logo (2x)"
+msgstr ""
+
+#: ../include/sections.php:24
+msgid ""
+"Optionally upload another logo for devices with retina displays. It should "
+"be double the size of your normal logo."
+msgstr ""
+
+#: ../include/sections.php:32
+msgid "Mobile logo"
+msgstr ""
+
+#: ../include/sections.php:33
+msgid "Optionally upload another logo for mobile devices."
+msgstr ""
+
+#: ../include/sections.php:40
+msgid "Mobile retina logo (2x)"
+msgstr ""
+
+#: ../include/sections.php:41
+msgid ""
+"Optionally upload another logo for mobile devices with retina displays. It "
+"should be double the size of your normal mobile logo."
+msgstr ""
+
+#: ../include/sections.php:49
+msgid ""
+"Upload your header cover image here. It will be displayed below the header "
+"bar."
+msgstr ""
+
+#: ../include/sections.php:59
+msgid "Default featured image"
+msgstr ""
+
+#: ../include/sections.php:60
+msgid ""
+"Upload your default featured image/placeholder. It will be displayed for "
+"posts that do not have a featured image set."
+msgstr ""
+
+#: ../include/sections.php:68
+msgid "Favicon"
+msgstr ""
+
+#: ../include/sections.php:69
+msgid ""
+"Upload your favicon here. Favicons can easily be created with <a href="
+"\"http://iconogen.com/\" target=\"_blank\">this tool</a>."
+msgstr ""
+
+#: ../include/sections.php:76
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: ../include/sections.php:77
+msgid "Upload an icon for Apple touch"
+msgstr ""
+
+#: ../include/sections.php:78
+msgid "Size: 77x77 px"
+msgstr ""
+
+#: ../include/sections.php:86
+msgid "Windows 8 Icon"
+msgstr ""
+
+#: ../include/sections.php:87
+msgid "Upload an icon for the Windows 8 interface"
+msgstr ""
+
+#: ../include/sections.php:88
+msgid "Size: 144x144 px"
+msgstr ""
+
+#: ../include/sections.php:97
+msgid "Image Options"
+msgstr ""
+
+#: ../include/sections.php:98
+msgid ""
+"Sidewalk will generate appropriate image sizes for each of the layouts/"
+"templates. You can use these options to modify the default image format/"
+"ratio or disable some sizes if you don't want to use a particular layout. "
+"<br/><br/>NOTE: Every time you change these options it is highly recommended "
+"to <a href=\"http://mekshq.com/docs/sidewalk-regenerate-images/\" target="
+"\"_blank\">regenerate thumbnails</a> for all of your previously uploaded "
+"images, as described in the theme documentation."
+msgstr ""
+
+#: ../include/sections.php:104
+msgid "Generate Cover image size"
+msgstr ""
+
+#: ../include/sections.php:105
+msgid "Used for the cover image below the header bar"
+msgstr ""
+
+#: ../include/sections.php:113
+msgid "Cover image height"
+msgstr ""
+
+#: ../include/sections.php:114
+msgid "Specify a height for the cover image"
+msgstr ""
+
+#: ../include/sections.php:115
+msgid "Note: Value is in px"
+msgstr ""
+
+#: ../include/sections.php:124
+msgid "Generate Layout A image size"
+msgstr ""
+
+#: ../include/sections.php:125
+msgid "Used for: Layout A, Single posts and Pages"
+msgstr ""
+
+#: ../include/sections.php:132
+msgid "Layout A image ratio"
+msgstr ""
+
+#: ../include/sections.php:133 ../include/sections.php:168
+msgid "Choose an image ratio for Layout A"
+msgstr ""
+
+#: ../include/sections.php:135 ../include/sections.php:170
+#: ../include/sections.php:204
+msgid "Original (ratio as uploaded - do not crop)"
+msgstr ""
+
+#: ../include/sections.php:136 ../include/sections.php:171
+#: ../include/sections.php:205
+msgid "4:3"
+msgstr ""
+
+#: ../include/sections.php:137 ../include/sections.php:172
+#: ../include/sections.php:206
+msgid "16:9"
+msgstr ""
+
+#: ../include/sections.php:138 ../include/sections.php:173
+#: ../include/sections.php:207
+msgid "Your custom ratio"
+msgstr ""
+
+#: ../include/sections.php:148
+msgid "Layout A image custom ratio"
+msgstr ""
+
+#: ../include/sections.php:149
+msgid "Specify your custom ratio for Layout A images"
+msgstr ""
+
+#: ../include/sections.php:150 ../include/sections.php:185
+#: ../include/sections.php:219
+msgid "Note: put 3:4 or 2:1 or any custom ratio you want"
+msgstr ""
+
+#: ../include/sections.php:159
+msgid "Generate Layout B image size"
+msgstr ""
+
+#: ../include/sections.php:160
+msgid "Used for: Layout B and Sidewalk Posts widget"
+msgstr ""
+
+#: ../include/sections.php:167
+msgid "Layout B image ratio"
+msgstr ""
+
+#: ../include/sections.php:183
+msgid "Layout B image custom ratio"
+msgstr ""
+
+#: ../include/sections.php:184
+msgid "Specify your custom ratio for Layout B images"
+msgstr ""
+
+#: ../include/sections.php:193
+msgid "Generate Layout C image size"
+msgstr ""
+
+#: ../include/sections.php:194
+msgid ""
+"Used for: Layout C, Featured slider, Related posts and Sidewalk Posts widget "
+"(list)"
+msgstr ""
+
+#: ../include/sections.php:201
+msgid "Layout C image ratio"
+msgstr ""
+
+#: ../include/sections.php:202
+msgid "Choose an image ratio for Layout C"
+msgstr ""
+
+#: ../include/sections.php:217
+msgid "Layout C image custom ratio"
+msgstr ""
+
+#: ../include/sections.php:218
+msgid "Specify your custom ratio for Layout C images"
+msgstr ""
+
+#: ../include/sections.php:230
+msgid "Header Styling"
+msgstr ""
+
+#: ../include/sections.php:231
+msgid "This is where you modify and style your header area"
+msgstr ""
+
+#: ../include/sections.php:238
+msgid "Header bar height"
+msgstr ""
+
+#: ../include/sections.php:239
+msgid "Specify a height for your header area"
+msgstr ""
+
+#: ../include/sections.php:240
+msgid "Note: Height value is in px."
+msgstr ""
+
+#: ../include/sections.php:248
+msgid "Logo/title position"
+msgstr ""
+
+#: ../include/sections.php:249
+msgid ""
+"Specify left and top positions for your logo/website title placement inside "
+"the header bar"
+msgstr ""
+
+#: ../include/sections.php:261
+msgid "Header bar background"
+msgstr ""
+
+#: ../include/sections.php:262
+msgid "This option applies to your main header area"
+msgstr ""
+
+#: ../include/sections.php:270
+msgid "Header bar background transparency"
+msgstr ""
+
+#: ../include/sections.php:271
+msgid "Choose a value for the header bar transparency"
+msgstr ""
+
+#: ../include/sections.php:272
+msgid ""
+"Note: This option will be applied if the cover image is indented into the "
+"header bar"
+msgstr ""
+
+#: ../include/sections.php:283
+msgid "Header bar text color"
+msgstr ""
+
+#: ../include/sections.php:284
+msgid "This option applies to your navigation"
+msgstr ""
+
+#: ../include/sections.php:292
+msgid "Header bar accent color"
+msgstr ""
+
+#: ../include/sections.php:293
+msgid "This option applies to your navigation links hover"
+msgstr ""
+
+#: ../include/sections.php:301
+msgid "Site title color"
+msgstr ""
+
+#: ../include/sections.php:302
+msgid "Specify a color for your website title (if the logo is not used)"
+msgstr ""
+
+#: ../include/sections.php:310
+msgid "Header bar width"
+msgstr ""
+
+#: ../include/sections.php:311
+msgid "Narrow (content width)"
+msgstr ""
+
+#: ../include/sections.php:311
+msgid "Wide (browser width)"
+msgstr ""
+
+#: ../include/sections.php:312
+msgid ""
+"Choose whether you want to use a narrow (content width) or a wide (window "
+"width) header"
+msgstr ""
+
+#: ../include/sections.php:320
+msgid "Cover overlay transparency"
+msgstr ""
+
+#: ../include/sections.php:321
+msgid "Choose a value for the cover image overlay transparency"
+msgstr ""
+
+#: ../include/sections.php:332
+msgid "Indent cover"
+msgstr ""
+
+#: ../include/sections.php:333
+msgid "Check if you want to indent your cover image into the header bar"
+msgstr ""
+
+#: ../include/sections.php:341
+msgid "Display search"
+msgstr ""
+
+#: ../include/sections.php:342
+msgid "Check if you want to display the search icon after the main navigation"
+msgstr ""
+
+#: ../include/sections.php:349
+msgid "Display social menu"
+msgstr ""
+
+#: ../include/sections.php:350
+msgid "Check if you want to display the social icon after the main navigation"
+msgstr ""
+
+#: ../include/sections.php:357
+msgid "Sticky header"
+msgstr ""
+
+#: ../include/sections.php:358
+msgid "Check if you want to make the main navigation always visible (sticky)"
+msgstr ""
+
+#: ../include/sections.php:366
+msgid "Sticky header offset"
+msgstr ""
+
+#: ../include/sections.php:367
+msgid "Specify after how many px of scrolling the sticky header should appear"
+msgstr ""
+
+#: ../include/sections.php:376
+msgid "Logo/title custom URL"
+msgstr ""
+
+#: ../include/sections.php:377
+msgid ""
+"Specify a URL if you want to link your logo/website title to some specific "
+"URL address. By default it will lead to your home page."
+msgstr ""
+
+#: ../include/sections.php:389
+msgid "Content Styling"
+msgstr ""
+
+#: ../include/sections.php:390
+msgid "This is where you style your main content area"
+msgstr ""
+
+#: ../include/sections.php:396
+msgid "Body layout"
+msgstr ""
+
+#: ../include/sections.php:397
+msgid "Choose a general body layout"
+msgstr ""
+
+#: ../include/sections.php:399
+msgid "Full width"
+msgstr ""
+
+#: ../include/sections.php:400
+msgid "Boxed"
+msgstr ""
+
+#: ../include/sections.php:409
+msgid "Body background"
+msgstr ""
+
+#: ../include/sections.php:410
+msgid "Setup your body background color, image or pattern"
+msgstr ""
+
+#: ../include/sections.php:420
+msgid "Content background"
+msgstr ""
+
+#: ../include/sections.php:421
+msgid "Specify the main content background color"
+msgstr ""
+
+#: ../include/sections.php:429
+msgid "Titles (headings) color"
+msgstr ""
+
+#: ../include/sections.php:430
+msgid "Specify a color for posts/page/widget titles, h1, h2, h3, etc..."
+msgstr ""
+
+#: ../include/sections.php:438
+msgid "Main text"
+msgstr ""
+
+#: ../include/sections.php:439
+msgid "This color applies to common text"
+msgstr ""
+
+#: ../include/sections.php:447 ../include/sections.php:524
+msgid "Accent color"
+msgstr ""
+
+#: ../include/sections.php:448
+msgid "This color applies to links, buttons, special elements, etc..."
+msgstr ""
+
+#: ../include/sections.php:456 ../include/sections.php:533
+msgid "Meta color"
+msgstr ""
+
+#: ../include/sections.php:457
+msgid ""
+"This color applies to miscellaneous items such as date labels, image "
+"captions, etc..."
+msgstr ""
+
+#: ../include/sections.php:465
+msgid "Smooth scroll effect"
+msgstr ""
+
+#: ../include/sections.php:466
+msgid ""
+"Check if you want to enable smooth scroll effect for a stylish appearance of "
+"your content"
+msgstr ""
+
+#: ../include/sections.php:480
+msgid "Footer Styling"
+msgstr ""
+
+#: ../include/sections.php:481
+msgid "This is where you style your footer area"
+msgstr ""
+
+#: ../include/sections.php:488
+msgid "Enable footer widgetized area"
+msgstr ""
+
+#: ../include/sections.php:489
+#, php-format
+msgid ""
+"Check if you want to include footer widgetized area in your theme. You can "
+"manage the footer content in the <a href=\"%s\">Apperance -> Widgets</a> "
+"settings."
+msgstr ""
+
+#: ../include/sections.php:496
+msgid "Footer background"
+msgstr ""
+
+#: ../include/sections.php:497
+msgid "Specify a footer background color"
+msgstr ""
+
+#: ../include/sections.php:506
+msgid "Headings color"
+msgstr ""
+
+#: ../include/sections.php:507
+msgid "This color will apply to footer widget titles, headings, etc..."
+msgstr ""
+
+#: ../include/sections.php:515 ../include/sections.php:592
+msgid "Text color"
+msgstr ""
+
+#: ../include/sections.php:516
+msgid "This is the standard text color for the footer"
+msgstr ""
+
+#: ../include/sections.php:525
+msgid "This color will apply to buttons, links, etc..."
+msgstr ""
+
+#: ../include/sections.php:534
+msgid ""
+"This color will apply to miscellaneous text like date, number of views, "
+"etc..."
+msgstr ""
+
+#: ../include/sections.php:543
+msgid "Enable bottom bar / copyright area"
+msgstr ""
+
+#: ../include/sections.php:544
+msgid "Check if you want to include a copyright area below the footer"
+msgstr ""
+
+#: ../include/sections.php:551
+msgid "Copyright"
+msgstr ""
+
+#: ../include/sections.php:552
+msgid "Specify the copyright text to show at the bottom of the website"
+msgstr ""
+
+#: ../include/sections.php:553
+msgid ""
+"Copyright &copy; 2015. Created by <a href=\"http://mekshq.com\" target="
+"\"_blank\">Meks</a>. Powered by <a href=\"http://www.wordpress.org\" target="
+"\"_blank\">WordPress</a>."
+msgstr ""
+
+#: ../include/sections.php:567
+msgid "Highlight Posts"
+msgstr ""
+
+#: ../include/sections.php:568
+msgid ""
+"You can choose posts by a specific criteria and they will be displayed in "
+"different color/styling in order to stand out among other posts on the post "
+"listing templates."
+msgstr ""
+
+#: ../include/sections.php:574
+msgid "Enable highlight posts"
+msgstr ""
+
+#: ../include/sections.php:575
+msgid "Check if you want to enable and use the highlight feature"
+msgstr ""
+
+#: ../include/sections.php:582
+msgid "Background color"
+msgstr ""
+
+#: ../include/sections.php:583
+msgid "Choose a background color for highlight posts"
+msgstr ""
+
+#: ../include/sections.php:593
+msgid "Choose a text color for highlight posts"
+msgstr ""
+
+#: ../include/sections.php:604 ../include/sections.php:1143
+#: ../include/sections.php:1260
+msgid "In category"
+msgstr ""
+
+#: ../include/sections.php:605
+msgid ""
+"Check if you want to highlight posts that belong to a particular category"
+msgstr ""
+
+#: ../include/sections.php:606 ../include/sections.php:1145
+#: ../include/sections.php:1262
+msgid ""
+"Note: You can select one or more categories. Leave empty for \"all categories"
+"\""
+msgstr ""
+
+#: ../include/sections.php:615 ../include/sections.php:1154
+#: ../include/sections.php:1271
+msgid "Tagged with"
+msgstr ""
+
+#: ../include/sections.php:616
+msgid ""
+"Check if you want to highlight posts that are tagged with a specific tag(s)"
+msgstr ""
+
+#: ../include/sections.php:624
+msgid "With more than \"x\" comments"
+msgstr ""
+
+#: ../include/sections.php:625
+msgid ""
+"Check if you want to highlight posts which have at least a certain number of "
+"comments"
+msgstr ""
+
+#: ../include/sections.php:626
+msgid ""
+"i.e. If you put 50, posts with more than 50 comments will be highlighted "
+msgstr ""
+
+#: ../include/sections.php:636
+msgid "With more than \"x\" views"
+msgstr ""
+
+#: ../include/sections.php:637
+msgid ""
+"Check if you want to highlight posts which have at least a certain number of "
+"views"
+msgstr ""
+
+#: ../include/sections.php:638
+msgid "i.e. If you put 50, posts with more than 50 views will be highlighted "
+msgstr ""
+
+#: ../include/sections.php:650
+msgid "Pick manually"
+msgstr ""
+
+#: ../include/sections.php:651
+msgid "Choose your highlight posts manually"
+msgstr ""
+
+#: ../include/sections.php:659
+msgid "Choose posts by IDs"
+msgstr ""
+
+#: ../include/sections.php:660
+msgid ""
+"Due to certain limitations, the previous select option displays a maximum of "
+"100 latest posts. Use this option to manually specify posts by their IDs if "
+"they cannot be found in the option above"
+msgstr ""
+
+#: ../include/sections.php:661
+msgid ""
+"Note: This option has a priority over the above option. Separate post IDs by "
+"comma, i.e. 43,56,26,187"
+msgstr ""
+
+#: ../include/sections.php:673
+msgid "Post Layouts"
+msgstr ""
+
+#: ../include/sections.php:680
+msgid "Featured slider"
+msgstr ""
+
+#: ../include/sections.php:681
+msgid "Manage options for posts displayed in the featured slider"
+msgstr ""
+
+#: ../include/sections.php:688 ../include/sections.php:795
+#: ../include/sections.php:916 ../include/sections.php:1013
+msgid "Display category"
+msgstr ""
+
+#: ../include/sections.php:689
+msgid ""
+"Check if you want to display a category link for posts in the featured area"
+msgstr ""
+
+#: ../include/sections.php:697 ../include/sections.php:804
+#: ../include/sections.php:925 ../include/sections.php:1022
+#: ../include/sections.php:1361
+msgid "Meta data"
+msgstr ""
+
+#: ../include/sections.php:698
+msgid "Check which meta data to show for posts in the featured area"
+msgstr ""
+
+#: ../include/sections.php:700 ../include/sections.php:807
+#: ../include/sections.php:928 ../include/sections.php:1025
+#: ../include/sections.php:1364 ../include/widgets/posts.php:275
+msgid "Date/time"
+msgstr ""
+
+#: ../include/sections.php:701 ../include/sections.php:808
+#: ../include/sections.php:854 ../include/sections.php:929
+#: ../include/sections.php:1026 ../include/sections.php:1365
+#: ../include/sections.php:1419 ../include/widgets/posts.php:277
+msgid "Comments"
+msgstr ""
+
+#: ../include/sections.php:703 ../include/sections.php:810
+#: ../include/sections.php:931 ../include/sections.php:1028
+#: ../include/sections.php:1367 ../include/translate.php:26
+#: ../include/widgets/posts.php:278
+msgid "Views"
+msgstr ""
+
+#: ../include/sections.php:704 ../include/sections.php:811
+#: ../include/sections.php:932 ../include/sections.php:1029
+#: ../include/sections.php:1368 ../include/widgets/posts.php:279
+msgid "Reading time"
+msgstr ""
+
+#: ../include/sections.php:718 ../include/sections.php:786
+#: ../include/sections.php:966 ../include/sections.php:1043
+msgid "Post format icon"
+msgstr ""
+
+#: ../include/sections.php:719
+msgid ""
+"Check if you want to display post format icons for posts in the featured area"
+msgstr ""
+
+#: ../include/sections.php:726
+msgid "Enable autoplay"
+msgstr ""
+
+#: ../include/sections.php:727
+msgid "Check if you want to auto-rotate posts in slider"
+msgstr ""
+
+#: ../include/sections.php:734
+msgid "Set autoplay time"
+msgstr ""
+
+#: ../include/sections.php:736
+msgid "Specify autoplay time per slide"
+msgstr ""
+
+#: ../include/sections.php:737
+msgid "Note: Please specify number in seconds"
+msgstr ""
+
+#: ../include/sections.php:747
+msgid "Manage options for posts displayed in Layout A"
+msgstr ""
+
+#: ../include/sections.php:756
+msgid "Display featured image/media"
+msgstr ""
+
+#: ../include/sections.php:757
+msgid "Check if you want to display a featured image for posts in Layout A"
+msgstr ""
+
+#: ../include/sections.php:764 ../include/sections.php:1398
+msgid "Display featured image caption"
+msgstr ""
+
+#: ../include/sections.php:765
+msgid "Check if you want to display caption/description on the featured image"
+msgstr ""
+
+#: ../include/sections.php:773
+msgid "Post formats display"
+msgstr ""
+
+#: ../include/sections.php:774
+msgid ""
+"Choose what to display if a post has specific format (video, gallery, "
+"etc... )"
+msgstr ""
+
+#: ../include/sections.php:776
+msgid "Media (video, audio, gallery...)"
+msgstr ""
+
+#: ../include/sections.php:777
+msgid "Featured image"
+msgstr ""
+
+#: ../include/sections.php:787
+msgid ""
+"Check if you want to display post format icons for posts in the Layout A"
+msgstr ""
+
+#: ../include/sections.php:796
+msgid "Check if you want to display a category link for posts in Layout A"
+msgstr ""
+
+#: ../include/sections.php:805
+msgid "Check which meta data to show for posts in Layout A"
+msgstr ""
+
+#: ../include/sections.php:825
+msgid "Layout A content type"
+msgstr ""
+
+#: ../include/sections.php:826
+msgid "Check how would you like to display post content for Layout A"
+msgstr ""
+
+#: ../include/sections.php:828
+msgid "Content (manually split with \"<--more-->\" tag)"
+msgstr ""
+
+#: ../include/sections.php:829
+msgid "Excerpt (automatically limit a certain number of characters)"
+msgstr ""
+
+#: ../include/sections.php:838 ../include/sections.php:955
+msgid "Excerpt limit"
+msgstr ""
+
+#: ../include/sections.php:839 ../include/sections.php:956
+msgid "Specify your excerpt limit"
+msgstr ""
+
+#: ../include/sections.php:840 ../include/sections.php:957
+msgid "Note: Value represents number of characters"
+msgstr ""
+
+#: ../include/sections.php:850 ../include/sections.php:1416
+msgid "Action buttons"
+msgstr ""
+
+#: ../include/sections.php:851
+msgid "Choose which actions to show for posts in Layout A"
+msgstr ""
+
+#: ../include/sections.php:853
+msgid "Read more"
+msgstr ""
+
+#: ../include/sections.php:855 ../include/sections.php:1420
+#: ../include/translate.php:24
+msgid "Share"
+msgstr ""
+
+#: ../include/sections.php:867 ../include/sections.php:974
+#: ../include/sections.php:1051
+msgid "Pagination type"
+msgstr ""
+
+#: ../include/sections.php:868
+msgid "Choose a pagination type for Layout A"
+msgstr ""
+
+#: ../include/sections.php:876 ../include/sections.php:983
+#: ../include/sections.php:1060
+msgid "Posts per page"
+msgstr ""
+
+#: ../include/sections.php:877
+msgid "Choose how many posts per page you want to display for Layout A"
+msgstr ""
+
+#: ../include/sections.php:879 ../include/sections.php:986
+#: ../include/sections.php:1063
+#, php-format
+msgid "Inherit from global option in <a href=\"%s\">Settings->Reading</a>"
+msgstr ""
+
+#: ../include/sections.php:880 ../include/sections.php:987
+#: ../include/sections.php:1064
+msgid "Custom number"
+msgstr ""
+
+#: ../include/sections.php:889 ../include/sections.php:996
+#: ../include/sections.php:1073
+msgid "Number of posts per page"
+msgstr ""
+
+#: ../include/sections.php:899
+msgid "Number of posts if combined"
+msgstr ""
+
+#: ../include/sections.php:900
+msgid ""
+"If Layout A is combined with another layout on the same page (i.e A+B or A"
+"+C), choose how many starter posts will be displayed in Layout A"
+msgstr ""
+
+#: ../include/sections.php:909
+msgid "Manage options for posts displayed in Layout B"
+msgstr ""
+
+#: ../include/sections.php:917
+msgid "Check if you want to display a category link for posts in Layout B"
+msgstr ""
+
+#: ../include/sections.php:926
+msgid "Check which meta data to show for posts in Layout B"
+msgstr ""
+
+#: ../include/sections.php:946
+msgid "Layout B excerpt"
+msgstr ""
+
+#: ../include/sections.php:947
+msgid "Check if you want to show a text excerpt for posts in Layout B"
+msgstr ""
+
+#: ../include/sections.php:967
+msgid "Check if you want to display post format icons for posts in Layout B"
+msgstr ""
+
+#: ../include/sections.php:975
+msgid "Choose a pagination type for Layout B"
+msgstr ""
+
+#: ../include/sections.php:984
+msgid "Choose how many posts per page you want to display for Layout B"
+msgstr ""
+
+#: ../include/sections.php:1006
+msgid "Manage options for posts displayed in Layout C"
+msgstr ""
+
+#: ../include/sections.php:1014
+msgid "Check if you want to display a category link for posts in Layout C"
+msgstr ""
+
+#: ../include/sections.php:1023
+msgid "Check which meta data to show for posts in Layout C"
+msgstr ""
+
+#: ../include/sections.php:1044
+msgid "Check if you want to display post format icons for posts in Layout C"
+msgstr ""
+
+#: ../include/sections.php:1052
+msgid "Choose a pagination type for Layout C"
+msgstr ""
+
+#: ../include/sections.php:1061
+msgid "Choose how many posts per page you want to display for Layout C"
+msgstr ""
+
+#: ../include/sections.php:1087
+msgid "Home Page"
+msgstr ""
+
+#: ../include/sections.php:1088
+msgid ""
+"This is where you manage your home page settings. In order to use these "
+"settings properly, you need to create a <strong>Home Page template</strong> "
+"and use it with the \"front page displays static page\" option in <a href=\""
+msgstr ""
+
+#: ../include/sections.php:1095
+msgid "Choose whether you want to display a cover image on the home page"
+msgstr ""
+
+#: ../include/sections.php:1096
+msgid ""
+"You can change the cover image by uploading a \"featured image\" for the "
+"page that is set as the home page"
+msgstr ""
+
+#: ../include/sections.php:1103
+msgid "Featured area (slider) options"
+msgstr ""
+
+#: ../include/sections.php:1104
+msgid "Manage options for the home page featured area (slider)"
+msgstr ""
+
+#: ../include/sections.php:1112
+msgid "Display featured area"
+msgstr ""
+
+#: ../include/sections.php:1113
+msgid "Check if you want to enable the featured area on the home page"
+msgstr ""
+
+#: ../include/sections.php:1121
+msgid "Number of featured area posts"
+msgstr ""
+
+#: ../include/sections.php:1122
+msgid "Check how many posts you want to display in the featured area"
+msgstr ""
+
+#: ../include/sections.php:1131
+msgid "Featured area posts order by"
+msgstr ""
+
+#: ../include/sections.php:1132
+msgid "Choose how to order posts in the home page featured area"
+msgstr ""
+
+#: ../include/sections.php:1144
+msgid ""
+"Check if you want to display posts in the featured area only from a specific "
+"category(s)"
+msgstr ""
+
+#: ../include/sections.php:1155
+msgid ""
+"Check if you want to display posts in the featured area that are tagged with "
+"a specific tag(s)"
+msgstr ""
+
+#: ../include/sections.php:1156 ../include/sections.php:1273
+msgid "Note: You can select one or more tags. Leave empty for \"all tags\""
+msgstr ""
+
+#: ../include/sections.php:1163 ../include/sections.php:1280
+msgid "Not older than"
+msgstr ""
+
+#: ../include/sections.php:1164
+msgid ""
+"Check if you want to display posts which are not older than a specific time "
+"difference"
+msgstr ""
+
+#: ../include/sections.php:1176 ../include/sections.php:1293
+msgid "Choose posts"
+msgstr ""
+
+#: ../include/sections.php:1177
+msgid "Pick your featured area posts manually"
+msgstr ""
+
+#: ../include/sections.php:1185 ../include/sections.php:1302
+msgid "Choose posts/pages by IDs"
+msgstr ""
+
+#: ../include/sections.php:1186
+msgid ""
+"Due to certain limitations, the previous select option displays a maximum of "
+"100 latest posts/pages. Use this option to manually specify posts or pages "
+"by their IDs if they cannot be found in the option above"
+msgstr ""
+
+#: ../include/sections.php:1187 ../include/sections.php:1304
+msgid ""
+"Note: This option has priority over above option. Separate post/page ids by "
+"comma, i.e. 43,56,26,187"
+msgstr ""
+
+#: ../include/sections.php:1194
+msgid "Do not duplicate"
+msgstr ""
+
+#: ../include/sections.php:1195
+msgid ""
+"Do not duplicate posts on the home page (if posts are displayed inside the "
+"featured area they will not be displayed inside the post listing below)"
+msgstr ""
+
+#: ../include/sections.php:1203
+msgid "Main content"
+msgstr ""
+
+#: ../include/sections.php:1204
+msgid "Manage options for home page main content"
+msgstr ""
+
+#: ../include/sections.php:1211
+msgid "Home page layout"
+msgstr ""
+
+#: ../include/sections.php:1212
+msgid "Choose a layout for the home page posts"
+msgstr ""
+
+#: ../include/sections.php:1220
+msgid "Home sidebar layout"
+msgstr ""
+
+#: ../include/sections.php:1221
+msgid "Choose a sidebar layout for home page"
+msgstr ""
+
+#: ../include/sections.php:1229
+msgid "Home standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1230
+msgid "Choose the home page standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1239
+msgid "Home sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1240
+msgid "Choose the home page sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1249
+msgid "Order posts by"
+msgstr ""
+
+#: ../include/sections.php:1250
+msgid "Choose how to order posts on the home page"
+msgstr ""
+
+#: ../include/sections.php:1261
+msgid "Check if you want to display posts only from a specific category(s)"
+msgstr ""
+
+#: ../include/sections.php:1272
+msgid ""
+"Check if you want to display posts that are tagged with a specific tag(s)"
+msgstr ""
+
+#: ../include/sections.php:1281
+msgid ""
+"Check if you want to display posts that are not older than a specific time "
+"difference"
+msgstr ""
+
+#: ../include/sections.php:1294
+msgid "Pick your home page posts manually"
+msgstr ""
+
+#: ../include/sections.php:1303
+msgid ""
+"Due to certain limitations, the previous select option displays a maximum "
+"100 latest posts/pages. Use this option to manually specify posts or pages "
+"by their IDs if they cannot be found in the option above"
+msgstr ""
+
+#: ../include/sections.php:1313
+msgid "Single Post Template"
+msgstr ""
+
+#: ../include/sections.php:1314
+msgid "Manage settings for the single post template"
+msgstr ""
+
+#: ../include/sections.php:1320
+msgid "Single post layout"
+msgstr ""
+
+#: ../include/sections.php:1321
+msgid "Choose a default layout for single posts"
+msgstr ""
+
+#: ../include/sections.php:1322
+msgid "Note: You can override this option for each specific post"
+msgstr ""
+
+#: ../include/sections.php:1331
+msgid "Choose a default sidebar layout for single posts"
+msgstr ""
+
+#: ../include/sections.php:1332
+msgid "Note: You can override this option for each particular post"
+msgstr ""
+
+#: ../include/sections.php:1340
+msgid "Post standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1341
+msgid "Choose a single post standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1350
+msgid "Post sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1351
+msgid "Choose a single post sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1362
+msgid "Check which meta data to show for single posts"
+msgstr ""
+
+#: ../include/sections.php:1382
+msgid "Display category link"
+msgstr ""
+
+#: ../include/sections.php:1383
+msgid "Check if you want to display a category link"
+msgstr ""
+
+#: ../include/sections.php:1390
+msgid "Display featured image"
+msgstr ""
+
+#: ../include/sections.php:1391
+msgid "Check if you want to display the featured image"
+msgstr ""
+
+#: ../include/sections.php:1399
+msgid ""
+"Check if you want to display a caption/description on the featured image"
+msgstr ""
+
+#: ../include/sections.php:1407
+msgid "Display tags"
+msgstr ""
+
+#: ../include/sections.php:1408
+msgid "Check if you want to display tags below the post content"
+msgstr ""
+
+#: ../include/sections.php:1417
+msgid "Check which actions to show for single posts"
+msgstr ""
+
+#: ../include/sections.php:1431
+msgid "Display previous/next post links"
+msgstr ""
+
+#: ../include/sections.php:1432
+msgid ""
+"Check if you want to display the previous and next post links for the "
+"current post."
+msgstr ""
+
+#: ../include/sections.php:1438
+msgid "Previous/next links to posts from the same category?"
+msgstr ""
+
+#: ../include/sections.php:1439
+msgid ""
+"Check if you want the previous and next post links to display only posts "
+"from the same category."
+msgstr ""
+
+#: ../include/sections.php:1447
+msgid "Enable infinite scroll loading"
+msgstr ""
+
+#: ../include/sections.php:1448
+msgid ""
+"If you check this option, next posts will be automatically loaded while you "
+"scroll to the end of a current post"
+msgstr ""
+
+#: ../include/sections.php:1455
+msgid "Display author box"
+msgstr ""
+
+#: ../include/sections.php:1456
+msgid "Check if you want to display the \"about the author\" area."
+msgstr ""
+
+#: ../include/sections.php:1463
+msgid "Display post excerpt in cover area"
+msgstr ""
+
+#: ../include/sections.php:1464
+msgid ""
+"Check this option if you want to show the post excerpt in the cover area"
+msgstr ""
+
+#: ../include/sections.php:1471
+msgid "Related posts"
+msgstr ""
+
+#: ../include/sections.php:1472
+msgid "These are options for the related posts area below the single post"
+msgstr ""
+
+#: ../include/sections.php:1480
+msgid "Display \"related\" posts box"
+msgstr ""
+
+#: ../include/sections.php:1481
+msgid ""
+"Choose if you want to display an additional area with related posts below "
+"the post content"
+msgstr ""
+
+#: ../include/sections.php:1489
+msgid "Related area posts number limit"
+msgstr ""
+
+#: ../include/sections.php:1498
+msgid "Related area chooses from"
+msgstr ""
+
+#: ../include/sections.php:1500
+msgid "Posts located in the same category"
+msgstr ""
+
+#: ../include/sections.php:1501
+msgid "Posts tagged with at least one same tag"
+msgstr ""
+
+#: ../include/sections.php:1502
+msgid "Posts located in the same category OR tagged with a same tag"
+msgstr ""
+
+#: ../include/sections.php:1503
+msgid "Posts located in the same category AND tagged with a same tag"
+msgstr ""
+
+#: ../include/sections.php:1504
+msgid "Posts by the same author"
+msgstr ""
+
+#: ../include/sections.php:1505
+msgid "All posts"
+msgstr ""
+
+#: ../include/sections.php:1514
+msgid "Related posts are ordered by"
+msgstr ""
+
+#: ../include/sections.php:1523
+msgid "Related posts are not older than"
+msgstr ""
+
+#: ../include/sections.php:1535
+msgid "Page Template"
+msgstr ""
+
+#: ../include/sections.php:1536
+msgid "Manage default settings for your pages"
+msgstr ""
+
+#: ../include/sections.php:1542
+msgid "Page layout"
+msgstr ""
+
+#: ../include/sections.php:1543
+msgid "Choose a default layout for pages"
+msgstr ""
+
+#: ../include/sections.php:1544
+msgid "Note: You can override this option for each specific page"
+msgstr ""
+
+#: ../include/sections.php:1553
+msgid "Choose a default sidebar layout for pages"
+msgstr ""
+
+#: ../include/sections.php:1554
+msgid "Note: You can override this option for each particular page"
+msgstr ""
+
+#: ../include/sections.php:1562
+msgid "Page standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1563
+msgid "Choose a page standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1572
+msgid "Page sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1573
+msgid "Choose a page sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1582
+msgid "Display the featured image"
+msgstr ""
+
+#: ../include/sections.php:1583
+msgid "Choose if you want to display the featured image on single pages"
+msgstr ""
+
+#: ../include/sections.php:1590
+msgid "Display the featured image caption"
+msgstr ""
+
+#: ../include/sections.php:1591
+msgid ""
+"Choose if you want to display the caption/description on the featured image"
+msgstr ""
+
+#: ../include/sections.php:1600
+msgid "Display the share buttons"
+msgstr ""
+
+#: ../include/sections.php:1601
+msgid "Choose if you want to display the social share buttons"
+msgstr ""
+
+#: ../include/sections.php:1608
+msgid "Display first paragraph as cover description"
+msgstr ""
+
+#: ../include/sections.php:1609
+msgid ""
+"If you check this option, the first paragraph on the page will be "
+"automatically displayed over the cover image"
+msgstr ""
+
+#: ../include/sections.php:1616
+msgid "Display comments"
+msgstr ""
+
+#: ../include/sections.php:1617
+msgid "Choose if you want to display comments on pages"
+msgstr ""
+
+#: ../include/sections.php:1618
+msgid ""
+"Note: This is just an option to quickly hide the comments on pages. If you "
+"want to allow/disallow comments properly, you need to do it in the "
+"\"Discussion\" box for each particular page."
+msgstr ""
+
+#: ../include/sections.php:1627
+msgid "Category Template"
+msgstr ""
+
+#: ../include/sections.php:1628
+msgid ""
+"Manage settings for the category templates. Note: these are global category "
+"settings, you can optionally modify these settings for each individual "
+"category."
+msgstr ""
+
+#: ../include/sections.php:1635
+msgid ""
+"Choose whether you want to display a cover image on the category template"
+msgstr ""
+
+#: ../include/sections.php:1643
+msgid "Category posts main layout"
+msgstr ""
+
+#: ../include/sections.php:1644
+msgid "Choose how to display your posts on category templates"
+msgstr ""
+
+#: ../include/sections.php:1645
+msgid "Note: You can override this option for each category separately"
+msgstr ""
+
+#: ../include/sections.php:1654
+msgid "Choose a default sidebar layout for the category template"
+msgstr ""
+
+#: ../include/sections.php:1662
+msgid "Category standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1663
+msgid "Choose a standard category sidebar"
+msgstr ""
+
+#: ../include/sections.php:1672
+msgid "Category sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1673
+msgid "Choose a sticky category sidebar"
+msgstr ""
+
+#: ../include/sections.php:1685
+msgid "Tag Template"
+msgstr ""
+
+#: ../include/sections.php:1686
+msgid "Manage settings for the tag templates"
+msgstr ""
+
+#: ../include/sections.php:1693
+msgid "Choose whether you want to display a cover image on the tag template"
+msgstr ""
+
+#: ../include/sections.php:1700
+msgid "Tag archives layout"
+msgstr ""
+
+#: ../include/sections.php:1701
+msgid "Choose how to display your posts on the tag template"
+msgstr ""
+
+#: ../include/sections.php:1711
+msgid "Choose a sidebar layout for the tag template"
+msgstr ""
+
+#: ../include/sections.php:1719
+msgid "Tag standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1720
+msgid "Choose a standard sidebar for the tag template"
+msgstr ""
+
+#: ../include/sections.php:1729
+msgid "Tag sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1730
+msgid "Choose a sticky sidebar for the tag template"
+msgstr ""
+
+#: ../include/sections.php:1742
+msgid "Author Template"
+msgstr ""
+
+#: ../include/sections.php:1743
+msgid "Manage settings for the author templates"
+msgstr ""
+
+#: ../include/sections.php:1750
+msgid "Choose if you want to display a cover image on the author template"
+msgstr ""
+
+#: ../include/sections.php:1757
+msgid "Display author avatar"
+msgstr ""
+
+#: ../include/sections.php:1758
+msgid "Choose if you want to display the author avatar/image"
+msgstr ""
+
+#: ../include/sections.php:1765
+msgid "Display author description"
+msgstr ""
+
+#: ../include/sections.php:1766
+msgid "Choose if you want to display the author bio/description"
+msgstr ""
+
+#: ../include/sections.php:1773
+msgid "Author archives layout"
+msgstr ""
+
+#: ../include/sections.php:1774
+msgid "Choose how to display your posts on the author template"
+msgstr ""
+
+#: ../include/sections.php:1783
+msgid "Choose a sidebar layout for the author template"
+msgstr ""
+
+#: ../include/sections.php:1791
+msgid "Author standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1792
+msgid "Choose a standard sidebar for the author template"
+msgstr ""
+
+#: ../include/sections.php:1801
+msgid "Author sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1802
+msgid "Choose a sticky sidebar for the author template"
+msgstr ""
+
+#: ../include/sections.php:1814
+msgid "Search Template"
+msgstr ""
+
+#: ../include/sections.php:1815
+msgid "Manage settings for the search results template"
+msgstr ""
+
+#: ../include/sections.php:1822
+msgid ""
+"Choose whether you want to display a cover image on the search results "
+"template"
+msgstr ""
+
+#: ../include/sections.php:1829
+msgid "Search archives layout"
+msgstr ""
+
+#: ../include/sections.php:1830
+msgid "Choose how to display your posts on the search template"
+msgstr ""
+
+#: ../include/sections.php:1839
+msgid "Choose a sidebar layout for the search template"
+msgstr ""
+
+#: ../include/sections.php:1847
+msgid "Search standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1848
+msgid "Choose a standard sidebar for the search template"
+msgstr ""
+
+#: ../include/sections.php:1857
+msgid "Search sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1858
+msgid "Choose a sticky sidebar for the search template"
+msgstr ""
+
+#: ../include/sections.php:1871
+msgid "Archive Templates"
+msgstr ""
+
+#: ../include/sections.php:1872
+msgid ""
+"Manage settings for other miscellaneous templates like date archives, post "
+"format archives, etc..."
+msgstr ""
+
+#: ../include/sections.php:1879
+msgid "Choose whether you want to display a cover image on archives"
+msgstr ""
+
+#: ../include/sections.php:1886
+msgid "Posts layout"
+msgstr ""
+
+#: ../include/sections.php:1887
+msgid "Choose how to display your posts on the archive templates"
+msgstr ""
+
+#: ../include/sections.php:1896
+msgid "Choose a sidebar layout for the archive templates"
+msgstr ""
+
+#: ../include/sections.php:1904
+msgid "Archive standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1905
+msgid "Choose a standard sidebar for the archive templates"
+msgstr ""
+
+#: ../include/sections.php:1914
+msgid "Archive sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1915
+msgid "Choose a sticky sidebar for the archive templates"
+msgstr ""
+
+#: ../include/sections.php:1926
+msgid "Typography"
+msgstr ""
+
+#: ../include/sections.php:1927
+msgid "Manage fonts and typography settings"
+msgstr ""
+
+#: ../include/sections.php:1933
+msgid "Main text font"
+msgstr ""
+
+#: ../include/sections.php:1941
+msgid "This is your main font for standard text"
+msgstr ""
+
+#: ../include/sections.php:1959
+msgid "Headings font"
+msgstr ""
+
+#: ../include/sections.php:1967
+msgid "This font is used for headings, titles, h-elements..."
+msgstr ""
+
+#: ../include/sections.php:1986
+msgid "Navigation font"
+msgstr ""
+
+#: ../include/sections.php:1994
+msgid "This font is used for the main website navigation"
+msgstr ""
+
+#: ../include/sections.php:2012
+msgid "Uppercase text"
+msgstr ""
+
+#: ../include/sections.php:2013
+msgid "Check if you want to show CAPITAL LETTERS for specific elements"
+msgstr ""
+
+#: ../include/sections.php:2015
+msgid "Site title"
+msgstr ""
+
+#: ../include/sections.php:2016
+msgid "Main navigation"
+msgstr ""
+
+#: ../include/sections.php:2017
+msgid "Post/Page titles"
+msgstr ""
+
+#: ../include/sections.php:2018
+msgid "Archive titles"
+msgstr ""
+
+#: ../include/sections.php:2019
+msgid "Cover area titles"
+msgstr ""
+
+#: ../include/sections.php:2020
+msgid "Widget titles"
+msgstr ""
+
+#: ../include/sections.php:2021
+msgid "Footer widget titles"
+msgstr ""
+
+#: ../include/sections.php:2040
+msgid "General"
+msgstr ""
+
+#: ../include/sections.php:2041
+msgid "These are the general theme settings"
+msgstr ""
+
+#: ../include/sections.php:2050
+msgid "Additional sidebars"
+msgstr ""
+
+#: ../include/sections.php:2051
+#, php-format
+msgid ""
+"Specify a number of additional sidebars you want to use in this theme. You "
+"can manage your sidebars through <a href=\"%s\">Appearance -> Widgets</a>"
+msgstr ""
+
+#: ../include/sections.php:2052
+msgid "Note: Leave empty for no additional sidebars."
+msgstr ""
+
+#: ../include/sections.php:2061
+msgid "Social share buttons"
+msgstr ""
+
+#: ../include/sections.php:2062
+msgid "Choose social networks that you want to use for sharing"
+msgstr ""
+
+#: ../include/sections.php:2064
+msgid "Facebook"
+msgstr ""
+
+#: ../include/sections.php:2065
+msgid "Twitter"
+msgstr ""
+
+#: ../include/sections.php:2066
+msgid "Google+"
+msgstr ""
+
+#: ../include/sections.php:2067
+msgid "Pinterest"
+msgstr ""
+
+#: ../include/sections.php:2068
+msgid "LinkedIN"
+msgstr ""
+
+#: ../include/sections.php:2082
+msgid "RTL mode (right to left)"
+msgstr ""
+
+#: ../include/sections.php:2083
+msgid "Enable this option if you are using right to left writing/reading"
+msgstr ""
+
+#: ../include/sections.php:2089
+msgid "Skip RTL for specific language(s)"
+msgstr ""
+
+#: ../include/sections.php:2090
+msgid ""
+"Paste specific WordPress language <a href=\"http://wpcentral.io/"
+"internationalization/\" target=\"_blank\">locale code</a> to exclude it from "
+"the RTL mode"
+msgstr ""
+
+#: ../include/sections.php:2091
+msgid ""
+"i.e. If you are using Arabic and English versions on the same WordPress "
+"installation you should put \"en_US\" in this field and its version will not "
+"be displayed as RTL. Note: To exclude multiple languages, separate by comma: "
+"en_US, de_DE"
+msgstr ""
+
+#: ../include/sections.php:2100
+msgid "More string"
+msgstr ""
+
+#: ../include/sections.php:2101
+msgid "Specify your \"more\" string to append after limited post excerpts"
+msgstr ""
+
+#: ../include/sections.php:2109
+msgid "Display \"time ago\" format"
+msgstr ""
+
+#: ../include/sections.php:2110
+msgid ""
+"Display post dates in \"time ago\" manner, like Twitter and Facebook (i.e 5 "
+"hours ago, 3 days ago, 2 weeks ago, 4 months ago, etc...)"
+msgstr ""
+
+#: ../include/sections.php:2111
+#, php-format
+msgid ""
+"Note: If you disable this option, you can choose your preferred date format "
+"in <a href=\"%s\">Settings -> General</a>"
+msgstr ""
+
+#: ../include/sections.php:2118
+msgid "Apply \"time ago\" to posts which are not older than"
+msgstr ""
+
+#: ../include/sections.php:2127
+msgid "Display \"ago\" word before date/time"
+msgstr ""
+
+#: ../include/sections.php:2128
+msgid ""
+"By default, \"ago\" word goes after date/time string but in some languages "
+"different than English it is more proper to display it before."
+msgstr ""
+
+#: ../include/sections.php:2129
+msgid "Example: \"Publie depuis 3 heures\""
+msgstr ""
+
+#: ../include/sections.php:2138
+msgid "Post views forgery"
+msgstr ""
+
+#: ../include/sections.php:2139
+msgid "Specify a value to add to the real number of entry views for each post"
+msgstr ""
+
+#: ../include/sections.php:2140
+msgid ""
+"i.e. If a post has 45 views and you put 100, your post will display 145 views"
+msgstr ""
+
+#: ../include/sections.php:2149
+msgid "404 template image"
+msgstr ""
+
+#: ../include/sections.php:2150
+msgid "Upload an image for the 404 template (optional)"
+msgstr ""
+
+#: ../include/sections.php:2151
+msgid "Supported formats: .jpg and .png"
+msgstr ""
+
+#: ../include/sections.php:2158
+msgid "Open content image(s) in pop-up"
+msgstr ""
+
+#: ../include/sections.php:2159
+msgid "Enable this option if you want to open your content image(s) in popup"
+msgstr ""
+
+#: ../include/sections.php:2175
+msgid "WooCommerce"
+msgstr ""
+
+#: ../include/sections.php:2176
+msgid "Manage options for WooCommerce pages"
+msgstr ""
+
+#: ../include/sections.php:2181
+msgid "Product sidebar layout"
+msgstr ""
+
+#: ../include/sections.php:2182
+msgid "Choose sidebar layout for WooCommerce products"
+msgstr ""
+
+#: ../include/sections.php:2190
+msgid "Product standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2191
+msgid "Choose standard sidebar for WooCommerce products"
+msgstr ""
+
+#: ../include/sections.php:2200
+msgid "Product sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2201
+msgid "Choose sticky sidebar for WooCommerce products"
+msgstr ""
+
+#: ../include/sections.php:2210
+msgid "Product archives sidebar layout"
+msgstr ""
+
+#: ../include/sections.php:2211
+msgid ""
+"Choose sidebar layout for WooCommerce products category, tag, archive etc..."
+msgstr ""
+
+#: ../include/sections.php:2219
+msgid "Product archives standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2220
+msgid ""
+"Choose standard sidebar for WooCommerce products category, tag, archive "
+"etc..."
+msgstr ""
+
+#: ../include/sections.php:2229
+msgid "Product archives sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2230
+msgid ""
+"Choose sticky sidebar for WooCommerce products category, tag, archive etc..."
+msgstr ""
+
+#: ../include/sections.php:2253
+msgid "Enable theme translation?"
+msgstr ""
+
+#: ../include/sections.php:2271
+msgid "Translation"
+msgstr ""
+
+#: ../include/sections.php:2272
+msgid ""
+"Use these settings to quckly translate or change the text in this theme. If "
+"you want to remove the text completely instead of modifying it, you can use "
+"<strong>\"-1\"</strong> as a value for particular field translation. <br/"
+"><br/><strong>Note:</strong> If you are using this theme for a multilingual "
+"website, you need to disable these options and use multilanguage plugins "
+"(such as WPML) or manual translation with .po and .mo files located inside "
+"the \"languages\" folder."
+msgstr ""
+
+#: ../include/sections.php:2280
+msgid "Additional Code"
+msgstr ""
+
+#: ../include/sections.php:2281
+msgid ""
+"Modify the default styling of the theme by adding custom CSS or JavaScript "
+"code. <strong>Note:</strong> These options are for advanced users only, so "
+"use them with caution."
+msgstr ""
+
+#: ../include/sections.php:2288
+msgid "Additional CSS"
+msgstr ""
+
+#: ../include/sections.php:2289
+msgid ""
+"Use this field to write or paste CSS code and modify the default theme "
+"styling"
+msgstr ""
+
+#: ../include/sections.php:2298
+msgid "Additional JavaScript"
+msgstr ""
+
+#: ../include/sections.php:2299
+msgid "Use this field to write or paste additional JavaScript code"
+msgstr ""
+
+#: ../include/sections.php:2308
+msgid "Google Analytics tracking code"
+msgstr ""
+
+#: ../include/sections.php:2309
+msgid ""
+"Paste your google analytics tracking code (or any other JavaScript related "
+"tracking code)"
+msgstr ""
+
+#: ../include/sections.php:2322
+msgid "Updater"
+msgstr ""
+
+#: ../include/sections.php:2323
+#, php-format
+msgid ""
+"Specify your ThemeForest username and API Key in order to enable the quick "
+"Sidewalk theme updates. Whenever we release a new Sidewalk update it will "
+"appear on your <a href=\"%s\">updates screen</a>."
+msgstr ""
+
+#: ../include/sections.php:2329
+msgid "Your ThemeForest Username"
+msgstr ""
+
+#: ../include/sections.php:2336
+msgid "Your ThemeForest API Key"
+msgstr ""
+
+#: ../include/sections.php:2337
+msgid ""
+"Where can I find my <a href=\"http://themeforest.net/help/api\" target="
+"\"_blank\">API key</a>?"
+msgstr ""
+
+#: ../include/sidebars.php:13
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../include/sidebars.php:14
+msgid "This is default sidebar."
+msgstr ""
+
+#: ../include/sidebars.php:26
+msgid "Default Sticky Sidebar"
+msgstr ""
+
+#: ../include/sidebars.php:27
+msgid ""
+"This is default sticky sidebar. Sticky means that it will be always pinned "
+"to top while you are scrolling through your website content."
+msgstr ""
+
+#: ../include/sidebars.php:60
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../include/sidebars.php:61
+msgid "This is sidebar to use in footer area column 1."
+msgstr ""
+
+#: ../include/sidebars.php:73
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../include/sidebars.php:74
+msgid "This is sidebar to use in footer area column 2."
+msgstr ""
+
+#: ../include/sidebars.php:87
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../include/sidebars.php:88
+msgid "This is sidebar to use in footer area column 3."
+msgstr ""
+
+#: ../include/snippets.php:84
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../include/translate.php:8
+msgid " Load more"
+msgstr ""
+
+#: ../include/translate.php:9
+msgid "Add Comment"
+msgstr ""
+
+#: ../include/translate.php:10
+msgid "1 Comment"
+msgstr ""
+
+#: ../include/translate.php:11 ../include/translate.php:35
+msgid "% Comments"
+msgstr ""
+
+#: ../include/translate.php:12
+msgid "Newer Entries"
+msgstr ""
+
+#: ../include/translate.php:13
+msgid "Older Entries"
+msgstr ""
+
+#: ../include/translate.php:14
+msgid "Next"
+msgstr ""
+
+#: ../include/translate.php:15
+msgid "Previous"
+msgstr ""
+
+#: ../include/translate.php:16
+msgid "Category - "
+msgstr ""
+
+#: ../include/translate.php:17
+msgid "Tag - "
+msgstr ""
+
+#: ../include/translate.php:18
+msgid "Author - "
+msgstr ""
+
+#: ../include/translate.php:19
+msgid "Archive - "
+msgstr ""
+
+#: ../include/translate.php:20
+msgid "Search Results For - "
+msgstr ""
+
+#: ../include/translate.php:21
+msgid "Type here to search..."
+msgstr ""
+
+#: ../include/translate.php:22
+msgid "ago"
+msgstr ""
+
+#: ../include/translate.php:23
+msgid "Continue reading"
+msgstr ""
+
+#: ../include/translate.php:25
+msgid "by"
+msgstr ""
+
+#: ../include/translate.php:27
+msgid "min read"
+msgstr ""
+
+#: ../include/translate.php:28
+msgid "Tagged as: "
+msgstr ""
+
+#: ../include/translate.php:29
+msgid "Next post"
+msgstr ""
+
+#: ../include/translate.php:30
+msgid "Previous post"
+msgstr ""
+
+#: ../include/translate.php:31
+msgid "You may also like"
+msgstr ""
+
+#: ../include/translate.php:32
+#, php-format
+msgid "%s / %s"
+msgstr ""
+
+#: ../include/translate.php:33
+msgid "View all posts"
+msgstr ""
+
+#: ../include/translate.php:34
+msgid "About the author"
+msgstr ""
+
+#: ../include/translate.php:36
+msgid "Leave a comment"
+msgstr ""
+
+#: ../include/translate.php:37
+msgid "Reply"
+msgstr ""
+
+#: ../include/translate.php:38
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../include/translate.php:39
+msgid "Post Comment"
+msgstr ""
+
+#: ../include/translate.php:40
+msgid "Comment"
+msgstr ""
+
+#: ../include/translate.php:41
+msgid "Name"
+msgstr ""
+
+#: ../include/translate.php:42
+msgid "Email"
+msgstr ""
+
+#: ../include/translate.php:43
+msgid "Website"
+msgstr ""
+
+#: ../include/translate.php:44
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../include/translate.php:45
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../include/translate.php:46
+msgid "Nothing found"
+msgstr ""
+
+#: ../include/translate.php:47
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../include/translate.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../include/translate.php:49
+msgid "404 error: Page not found"
+msgstr ""
+
+#: ../include/translate.php:50
+msgid "It seems that you got lost, but we are here to help"
+msgstr ""
+
+#: ../include/translate.php:51
+msgid "Not all those who wonder are lost<br/> - J.R.R. Tolkien"
+msgstr ""
+
+#: ../include/translate.php:52
+msgid ""
+"The page that you are looking for doesn&rsquo;t exist on this website. You "
+"may have accidentally mistype the page address, or followed an expired link. "
+"Anyway, we will help you get back on track. Why don&rsquo;t you try one of "
+"these pages for starters."
+msgstr ""
+
+#: ../include/classes/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../include/classes/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../include/classes/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../include/classes/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:532
+#: ../include/classes/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1167
+#: ../include/classes/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1170
+#: ../include/classes/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1288
+#: ../include/classes/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1312
+#: ../include/classes/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2070
+#: ../include/classes/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2070
+#: ../include/classes/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../include/classes/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:220
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:220
+msgid "Redux Framework"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:224
+#: ../include/options/ReduxCore/framework.php:228
+msgid "Options"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:1753
+msgid "Enable"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:1758
+msgid "Disable"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:1764
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:1766
+msgid "clicking"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:1770
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:1775
+msgid "Hints"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:1902
+msgid "Default"
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:2780
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:2789
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:2869
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:3984
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: ../include/options/ReduxCore/framework.php:3999
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: ../include/options/ReduxCore/core/enqueue.php:452
+#: ../include/options/ReduxCore/inc/extensions/customizer/extension_customizer.php:685
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/enqueue.php:460
+#: ../include/options/ReduxCore/inc/extensions/customizer/extension_customizer.php:686
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../include/options/ReduxCore/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../include/options/ReduxCore/core/enqueue.php:476
+#: ../include/options/ReduxCore/inc/extensions/customizer/extension_customizer.php:687
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/enqueue.php:483
+msgid "Please Wait"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/enqueue.php:494
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/enqueue.php:495
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../include/options/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_filesystem.php:31
+#: ../include/options/ReduxCore/inc/class.redux_filesystem.php:60
+#: ../include/options/ReduxCore/inc/class.redux_filesystem.php:271
+msgid "File Permission Issues"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_filesystem.php:60
+#: ../include/options/ReduxCore/inc/class.redux_filesystem.php:271
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/class.redux_helpers.php:610
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/customizer/extension_customizer.php:720
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/customizer/extension_customizer.php:721
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/customizer/extension_customizer.php:722
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: ../include/options/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: ../include/options/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:274
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/extension_wbc_importer.php:281
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:42
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:72
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:84
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:89
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:279
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:259
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:332
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:406
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:428
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:451
+msgid "Widget already exists"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:500
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:503
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/radium-importer.php:510
+msgid "No Title"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:124
+#: ../include/options/ReduxCore/inc/fields/color/field_color.php:73
+#: ../include/options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../include/options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:277
+#: ../include/options/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/background/field_background.php:321
+#: ../include/options/ReduxCore/inc/fields/media/field_media.php:205
+#: ../include/options/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ../include/options/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ../include/options/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/border/field_border.php:125
+#: ../include/options/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/border/field_border.php:138
+#: ../include/options/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/border/field_border.php:145
+#: ../include/options/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/border/field_border.php:152
+#: ../include/options/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/border/field_border.php:159
+#: ../include/options/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:442
+#: ../include/widgets/video.php:99
+msgid "Height"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../include/options/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: ../include/options/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../include/options/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/link_color/field_link_color.php:100
+msgid "Active"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/select/field_select.php:83
+#: ../include/options/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/select/field_select.php:134
+#: ../include/options/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:73
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:200
+#: ../include/widgets/adsense.php:57 ../include/widgets/posts.php:151
+#: ../include/widgets/video.php:80
+msgid "Title"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:258
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:273
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:342
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:343
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:365
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:366
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:388
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:389
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:408
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:409
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:432
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:441
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:450
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:459
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../include/options/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+#: ../include/options/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../include/options/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../include/options/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: ../include/options/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/footer.tpl.php:57
+msgid "Save Changes"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/footer.tpl.php:61
+msgid "Reset Section"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/footer.tpl.php:62
+msgid "Reset All"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/footer.tpl.php:67
+msgid "Working..."
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:11
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: ../include/options/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: ../include/widgets/adsense.php:11
+msgid ""
+"You can place Google AdSense or any JavaScript related code inside this "
+"widget"
+msgstr ""
+
+#: ../include/widgets/adsense.php:13
+msgid "Sidewalk Adsense"
+msgstr ""
+
+#: ../include/widgets/adsense.php:59
+msgid "Leave empty for no title"
+msgstr ""
+
+#: ../include/widgets/adsense.php:63
+msgid "Adsense Code"
+msgstr ""
+
+#: ../include/widgets/adsense.php:65
+msgid ""
+"Place your Google Adsense code or any JavaScript related advertising code."
+msgstr ""
+
+#: ../include/widgets/posts.php:11
+msgid "Display your posts with this widget"
+msgstr ""
+
+#: ../include/widgets/posts.php:13
+msgid "Sidewalk Posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:16
+msgid "Featured Posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:160
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../include/widgets/posts.php:170
+msgid "Auto detect category"
+msgstr ""
+
+#: ../include/widgets/posts.php:171
+msgid ""
+"If sidebar is used on single post template, display posts from current post "
+"category "
+msgstr ""
+
+#: ../include/widgets/posts.php:179
+msgid "Only select posts which are not older than"
+msgstr ""
+
+#: ../include/widgets/posts.php:189
+msgid "Choose manually"
+msgstr ""
+
+#: ../include/widgets/posts.php:191
+msgid ""
+"Specify post ids separated by comma if you want to select only those posts. "
+"i.e. 213,32,12,45 Note: you can also choose pages as well as custom post "
+"types"
+msgstr ""
+
+#: ../include/widgets/posts.php:195
+msgid "Post titles characters limit"
+msgstr ""
+
+#: ../include/widgets/posts.php:197
+msgid "Note: Leave empty if you want to show entire post titles"
+msgstr ""
+
+#: ../include/widgets/posts.php:217
+msgid "Select all posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:225
+msgid "Published date"
+msgstr ""
+
+#: ../include/widgets/posts.php:233
+msgid "Order by:"
+msgstr ""
+
+#: ../include/widgets/posts.php:246
+msgid "Choose from:"
+msgstr ""
+
+#: ../include/widgets/posts.php:256
+msgid "Big posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:257
+msgid "Post list"
+msgstr ""
+
+#: ../include/widgets/posts.php:258
+msgid "Slider"
+msgstr ""
+
+#: ../include/widgets/posts.php:262
+msgid "Widget style:"
+msgstr ""
+
+#: ../include/widgets/posts.php:283
+msgid "Display meta data:"
+msgstr ""
+
+#: ../include/widgets/video.php:11
+msgid "You can easily place YouTube or Vimeo video here"
+msgstr ""
+
+#: ../include/widgets/video.php:13
+msgid "Sidewalk Video"
+msgstr ""
+
+#: ../include/widgets/video.php:16
+msgid "Video"
+msgstr ""
+
+#: ../include/widgets/video.php:85
+msgid "Video type"
+msgstr ""
+
+#: ../include/widgets/video.php:87
+msgid "YouTube"
+msgstr ""
+
+#: ../include/widgets/video.php:89
+msgid "Vimeo"
+msgstr ""
+
+#: ../include/widgets/video.php:93
+msgid "Video ID"
+msgstr ""
+
+#: ../include/widgets/video.php:95
+msgid "ID example"
+msgstr ""
+
+#: ../include/widgets/video.php:104
+msgid "Description (optional)"
+msgstr ""
+
+#: ../sections/content-none.php:5
+#, php-format
+msgid ""
+"No posts can be found on this page. Go and <a href=\"%1$s\">add some new "
+"posts</a>."
+msgstr ""
+
+#: ../sections/headers/navigation.php:28
+msgid "Click here to add navigation menu"
+msgstr ""
+
+#: ../sections/headers/social.php:8
+msgid "Click here to add social menu"
+msgstr ""
+
+#: ../sections/pagination/infinite-scroll.php:6
+#: ../sections/pagination/load-more.php:6
+#: ../sections/pagination/single-infinite-scroll.php:6
+msgid "Loading..."
+msgstr ""
