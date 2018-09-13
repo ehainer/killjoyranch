@@ -13,7 +13,7 @@
 	<meta property="og:title" content="Killjoy Ranch: Where Joy Goes to Die" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.killjoyranch.com" />
-	<meta property="og:image" content="/wp-content/themes/sidewalk/images/og.jpg" />
+	<meta property="og:image" content="https://www.killjoyranch.com/wp-content/themes/sidewalk/images/og.jpg" />
 </head>
 
 <body <?php body_class(); ?>>
