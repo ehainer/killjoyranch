@@ -14,6 +14,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://www.killjoyranch.com" />
 	<meta property="og:image" content="https://www.killjoyranch.com/wp-content/themes/sidewalk/images/og.jpg" />
+	<meta property="og:description" content="A personal blog about of working in tech and living in analog. I'm thinking out loud here and hoping for the best." />
 </head>
 
 <body <?php body_class(); ?>>
